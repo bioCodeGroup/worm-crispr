@@ -1,2 +1,2 @@
 # worm-crispr
-tool for designing guideRNAs for crispr in c. elegans
+Tool for designing guide RNAs for CRISPR in C. elegans. 
